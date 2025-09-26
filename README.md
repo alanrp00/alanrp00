@@ -32,34 +32,50 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrp00&layout=compact&theme=tokyonight)
 
-### 🖼️ Galería de proyectos
+---
+
+## 🖼️ Galería de proyectos
 
 <div align="center">
-  
-  <!-- Palabro -->
-  <a href="https://github.com/alanrp00/Palabro">
-    <b>Palabro</b>
-  </a>
-  <br>
-  <span>Juego de palabras inspirado en Wordle, creado con Java</span>
-  <br><br>
-  
-  <!-- Sustituye estos nombres por los de tus imágenes reales -->
-  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/palabro1.png" width="200" alt="Palabro Screenshot 1"/>
-  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/palabro2.png" width="200" alt="Palabro Screenshot 2"/>
-  <!-- Añade más imágenes si tienes -->
-  <br><br>
-  
-  <!-- Calculator -->
-  <a href="https://github.com/alanrp00/Calculator">
-    <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/calculator.png" width="200" alt="Calculator"/>
-    <br>
-    <b>Calculator</b>
-  </a>
-  <br>
-  <span>Calculadora multiplataforma hecha en Java</span>
-  <br><br>
-  
+
+<!-- Palabro -->
+<h2>🟣 <a href="https://github.com/alanrp00/Palabro">Palabro</a></h2>
+<p><em>Juego de palabras inspirado en Wordle</em></p>
+<p><strong>🛠️ Kotlin</strong></p>
+
+<!-- Miniaturas de Palabro -->
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_111906.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_111906.png" width="120" alt="Palabro Screenshot 1" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_111930.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_111930.png" width="120" alt="Palabro Screenshot 2" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112000.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112000.png" width="120" alt="Palabro Screenshot 3" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112011.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112011.png" width="120" alt="Palabro Screenshot 4" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112022.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112022.png" width="120" alt="Palabro Screenshot 5" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112033.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112033.png" width="120" alt="Palabro Screenshot 6" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112051.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112051.png" width="120" alt="Palabro Screenshot 7" style="margin:8px; border-radius:8px;" />
+</a>
+
+<br><br>
+
+<!-- Calculator -->
+<h2>🧮 <a href="https://github.com/alanrp00/Calculator">Calculator</a></h2>
+<p><em>Calculadora multiplataforma</em></p>
+<p><strong>🛠️ HTML · CSS · JavaScript</strong></p>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/calculadora.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/calculadora.png" width="120" alt="Calculator Screenshot" style="margin:8px; border-radius:8px;" />
+</a>
+
 </div>
 
 ---
@@ -87,39 +103,48 @@ Hi! I'm **Alán Rivas Pérez**, a junior programmer on the path to becoming a Fu
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanrp00&layout=compact&theme=tokyonight)
 
-### 🖼️ Projects Gallery
+---
+
+## 🖼️ Projects Gallery
 
 <div align="center">
-  
-  <!-- Palabro -->
-  <a href="https://github.com/alanrp00/Palabro">
-    <b>Palabro</b>
-  </a>
-  <br>
-  <span>Word game inspired by Wordle, built with Java</span>
-  <br><br>
-  
-  <!-- Replace these with your actual images -->
-  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_111906.png.png" width="200" alt="Palabro Screenshot 1"/>
-  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/assets/Screenshot_20250926_111930.png" width="200" alt="Palabro Screenshot 2"/>
-  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/assets/assets/Screenshot_20250926_112000.png" width="200" alt="Palabro Screenshot 3"/>
-  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/assets/assets/assets/Screenshot_20250926_112011.png" width="200" alt="Palabro Screenshot 4"/>
-  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/assets/assets/assets/Screenshot_20250926_112022.png" width="200" alt="Palabro Screenshot 5"/>
-  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/assets/assets/assets/Screenshot_20250926_112033.png" width="200" alt="Palabro Screenshot 6"/>
-  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/assets/assets/assets/Screenshot_20250926_112051.png" width="200" alt="Palabro Screenshot 7"/>
-  <!-- Add more images if you have them -->
-  <br><br>
-  
-  <!-- Calculator -->
-  <a href="https://github.com/alanrp00/Calculator">
-    <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/calculadora.png" width="200" alt="Calculator"/>
-    <br>
-    <b>Calculator</b>
-  </a>
-  <br>
-  <span>Cross-platform calculator built in Java</span>
-  <br><br>
-  
+
+<!-- Palabro -->
+<h2>🟣 <a href="https://github.com/alanrp00/Palabro">Palabro</a></h2>
+<p><em>Word game inspired by Wordle</em></p>
+<p><strong>🛠️ Kotlin</strong></p>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_111906.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_111906.png" width="120" alt="Palabro Screenshot 1" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_111930.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_111930.png" width="120" alt="Palabro Screenshot 2" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112000.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112000.png" width="120" alt="Palabro Screenshot 3" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112011.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112011.png" width="120" alt="Palabro Screenshot 4" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112022.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112022.png" width="120" alt="Palabro Screenshot 5" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112033.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112033.png" width="120" alt="Palabro Screenshot 6" style="margin:8px; border-radius:8px;" />
+</a>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112051.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/Screenshot_20250926_112051.png" width="120" alt="Palabro Screenshot 7" style="margin:8px; border-radius:8px;" />
+</a>
+
+<br><br>
+
+<!-- Calculator -->
+<h2>🧮 <a href="https://github.com/alanrp00/Calculator">Calculator</a></h2>
+<p><em>Cross-platform Calculator</em></p>
+<p><strong>🛠️ HTML · CSS · JavaScript</strong></p>
+<a href="https://github.com/alanrp00/alanrp00/raw/main/assets/calculadora.png" target="_blank">
+  <img src="https://github.com/alanrp00/alanrp00/raw/main/assets/calculadora.png" width="120" alt="Calculator Screenshot" style="margin:8px; border-radius:8px;" />
+</a>
+
 </div>
 
 ---
