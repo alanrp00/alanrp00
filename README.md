@@ -60,7 +60,7 @@ Actualmente estoy trabajando en nuevos proyectos web para seguir ampliando mi po
 ## 📩 **Contacto**
 - **Email:** alanrivasperez00@gmail.com  
 - **Portfolio:** https://alanrivas.com  
-- **LinkedIn:** (optimizando...)
+- **LinkedIn:** https://www.linkedin.com/in/alanrivasperez
 
 ---
 
